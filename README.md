@@ -1,6 +1,6 @@
 # Dio-desafio
 
-** Repositorio GIT/GITHUB-Desafio para apresntação de projeto da DIO **
+**Repositorio GIT/GITHUB-Desafio para apresntação de projeto da DIO **
 
 ##  Links úteis
 
